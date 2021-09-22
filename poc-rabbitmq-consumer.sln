@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poc-rabbitmq-consumer", "poc-rabbitmq-consumer\poc-rabbitmq-consumer.csproj", "{E15444D0-F62C-4840-A5DE-BEDB34723D60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poc-rabbitmq-consumer", "src/poc-rabbitmq-consumer\poc-rabbitmq-consumer.csproj", "{E15444D0-F62C-4840-A5DE-BEDB34723D60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
